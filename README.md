@@ -14,4 +14,6 @@ Lecture6_practice.py -  Functions and Recursion
 Lecture7_practice.py - File I/O
 Lecture8_practice.py - OOPS
 
+After completion of all the Lectures till OOPS, I have added a Mini_project.py which is guess the number.
+
 Thank you.
